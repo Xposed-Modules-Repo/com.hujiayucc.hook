@@ -8,7 +8,7 @@ As the name suggests, this is an Xposed plugin to remove ads.
 
 ---
 
-**English | [简体中文](README.MD)**
+**English | [简体中文](README.md)**
 
 [![Stars](https://img.shields.io/github/stars/hujiayucc/Fuck-AD?label=stars)](https://github.com/hujiayucc/Fuck-AD)
 [![Release](https://img.shields.io/github/v/release/hujiayucc/Fuck-AD?include_prereleases)](https://github.com/Xposed-Modules-Repo/com.hujiayucc.hook/releases/latest)
