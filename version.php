@@ -21,9 +21,9 @@ header("Pragma:no-cache");
 // 软件版本
 $versionCode = 1500;
 // Dex版本 用于本地下载校验
-$hotFixVersion = 1700;
+$hotFixVersion = 1800;
 // 热更新版本名
-$hotFixName = "1.2.0";
+$hotFixName = "1.2.0.1";
 // APK下载地址
 $url = "https://hujiayucc.lanzoum.com/iWuSY0rc31ba";
 // Dex文件名
