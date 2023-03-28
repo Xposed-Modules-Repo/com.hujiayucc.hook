@@ -24,8 +24,6 @@
 
 - [YukiHookAPI](https://github.com/fankes/YukiHookAPI)
 - [LSPosed](https://github.com/LSPosed/LSPosed)
-- [OkHttp](https://github.com/square/okhttp)
-- [FastJson](https://github.com/alibaba/fastjson)
 - [SwipeRefreshLayout](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html)
 - ...
 
