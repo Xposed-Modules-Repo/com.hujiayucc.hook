@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="160" src="https://imgs.hujiayucc.cn/2023/02/24/63f828f4582ad.png" alt="logo">
+<img width="160" src="./icon.png" alt="logo">
 
 # Fuck AD
 
