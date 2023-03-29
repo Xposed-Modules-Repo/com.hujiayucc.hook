@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="160" src="./icon.png" alt="logo">
+<img width="160" src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.hujiayucc.hook/main/icon.png" alt="logo">
 
 # Fuck AD
 
