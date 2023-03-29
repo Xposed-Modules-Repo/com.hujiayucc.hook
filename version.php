@@ -23,7 +23,7 @@ $versionCode = 1800;
 // Dex版本 用于版本校验
 $hotFixVersion = 1830;
 // 热更新版本名
-$hotFixName = "1.2.0.3";
+$hotFixName = "1.2.0.2";
 // APK下载地址
 $url = "https://hujiayucc.lanzoum.com/i04Py0rdafbc";
 // Dex文件名
