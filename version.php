@@ -19,15 +19,15 @@
 // 禁用缓存
 header("Pragma:no-cache");
 // 软件版本
-$versionCode = 1800;
+$versionCode = 2001;
 // Dex版本 用于版本校验
-$hotFixVersion = 1850;
+$hotFixVersion = 2001;
 // 热更新版本名
-$hotFixName = "1.2.0.3";
+$hotFixName = "1.2.1";
 // APK下载地址
-$url = "https://hujiayucc.lanzoum.com/i04Py0rdafbc";
+$url = "https://hujiayucc.lanzoum.com/ipQR10rlwcpi";
 // Dex文件名
-$dexName = "base.dex";
+$dexName = $hotFixVersion . ".dex";
 // 获取Dex文件数据
 $dex = file_get_contents($dexName);
 // 更新日志
