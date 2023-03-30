@@ -1,2 +1,4 @@
 1.优化新版本提示
 2.改善热更新旧版删除
+3.修复SkipService获取配置时闪退
+4.修复ROOT情景未获取WRITE_SECURE_SETTINGS权限闪退
