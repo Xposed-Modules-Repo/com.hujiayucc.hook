@@ -19,13 +19,13 @@
 // 禁用缓存
 header("Pragma:no-cache");
 // 软件版本
-$versionCode = 2001;
+$versionCode = 2020;
 // Dex版本 用于版本校验
 $hotFixVersion = 2001;
 // 热更新版本名
 $hotFixName = "1.2.1";
 // APK下载地址
-$url = "https://hujiayucc.lanzoum.com/ipQR10rlwcpi";
+$url = "https://hujiayucc.lanzoum.com/ifXBG0rq60hc";
 // Dex文件名
 $dexName = $hotFixVersion . ".dex";
 // 获取Dex文件数据
