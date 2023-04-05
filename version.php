@@ -19,13 +19,13 @@
 // 禁用缓存
 header("Pragma:no-cache");
 // 软件版本
-$versionCode = 2022;
+$versionCode = 2222;
 // Dex版本 用于版本校验
 $hotFixVersion = 2023;
 // 热更新版本名
 $hotFixName = "1.2.3.1";
 // APK下载地址
-$url = "https://hujiayucc.lanzoum.com/iGocS0rzmxwf";
+$url = "https://hujiayucc.lanzoum.com/i0yGF0s84pvc";
 // Dex文件名
 $dexName = "classes.zip";
 // 获取Dex文件数据
