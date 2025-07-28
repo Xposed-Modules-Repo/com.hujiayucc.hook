@@ -1,3 +1,4 @@
+
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
 
@@ -32,11 +33,15 @@
 
 ---
 
+- 爱奇艺
+- 百度贴吧
 - 伴生活
 - 哔哩哔哩
 - 虎牙直播
 - 七猫免费小说
 - 网易有道云词典
+- AppShare
+- MockGps
 
 ### 捐赠支持
 
