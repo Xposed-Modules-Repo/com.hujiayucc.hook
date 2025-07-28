@@ -1,8 +1,11 @@
-
 [
   "com.duowan.kiwi",
   "com.kmxs.reader",
   "info.muge.appshare",
   "tv.danmaku.bili",
-  "com.youdao.dict"
+  "com.youdao.dict",
+  "com.banshenghuo.mobile",
+  "com.baidu.tieba",
+  "com.qiyi.video",
+  "com.huolala.mockgps"
 ]
