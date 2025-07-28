@@ -5,11 +5,11 @@
 
 # Fuck AD
 
-As the name implies, this is an ad-blocking Xposed module
+顾名思义，这是一个去广告的Xposed插件
 
 ---
 
-**English | [简体中文](https://github.com/hujiayucc/Fuck-AD/blob/master/README-zh_CN.md)**
+**[English](https://github.com/hujiayucc/Fuck-AD/blob/master/README.md) | 简体中文**
 
 [![Stars](https://img.shields.io/github/stars/hujiayucc/Fuck-AD?label=stars)](https://github.com/hujiayucc/Fuck-AD)
 [![Release](https://img.shields.io/github/v/release/hujiayucc/Fuck-AD?include_prereleases)](https://github.com/Xposed-Modules-Repo/com.hujiayucc.hook/releases/latest)
@@ -19,7 +19,7 @@ As the name implies, this is an ad-blocking Xposed module
 
 </div>
 
-### Development Components
+### 开发组件
 
 ---
 
@@ -28,7 +28,7 @@ As the name implies, this is an ad-blocking Xposed module
 - [SwipeRefreshLayout](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html)
 - ...
 
-### Supported App
+### 目前支持
 
 ---
 
@@ -38,11 +38,11 @@ As the name implies, this is an ad-blocking Xposed module
 - 七猫免费小说
 - 网易有道云词典
 
-### Donation Support
+### 捐赠支持
 
 ---
 
-#### WeChat/Alipay/QQ
+#### 微信/支付宝/QQ
 
 <div align="center" style="padding: 0">
 <img width="40%" src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.hujiayucc.hook/main/imgs/WeChat.png" alt="logo">
