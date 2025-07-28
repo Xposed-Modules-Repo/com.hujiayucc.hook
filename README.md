@@ -32,11 +32,15 @@ As the name implies, this is an ad-blocking Xposed module
 
 ---
 
+- 爱奇艺
+- 百度贴吧
 - 伴生活
 - 哔哩哔哩
 - 虎牙直播
 - 七猫免费小说
 - 网易有道云词典
+- AppShare
+- MockGps
 
 ### Donation Support
 
