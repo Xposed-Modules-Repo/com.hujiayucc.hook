@@ -23,7 +23,8 @@
 
 ---
 
-- [YukiHookAPI](https://github.com/fankes/YukiHookAPI)
+- [libxposed-api](https://github.com/libxposed/api)
+- [libxposed-service](https://github.com/libxposed/service)
 - [LSPosed](https://github.com/LSPosed/LSPosed)
 - ...
 
@@ -36,24 +37,7 @@
 
 ### 目前支持
 
----
-
-- 爱奇艺
-- 百度贴吧
-- 百度网盘
-- 伴生活
-- 哔哩哔哩
-- 次元城动画
-- 抖音
-- 豆瓣
-- 疯狂刷题
-- 红果免费短剧
-- 虎牙直播
-- 酷安
-- 七猫免费小说
-- 网易有道云词典
-- AppShare
-- MockGps
+点击 [这里](https://github.com/hujiayucc/Fuck-AD/blob/master/app/src/main/resources/META-INF/xposed/scope.list) 查看作用域
 
 ### 捐赠支持
 
@@ -68,7 +52,7 @@
 ``` 
 Apache License Version 2.0
 
-Copyright (C) 2023-2025 hujiayucc
+Copyright (C) 2023-2026 hujiayucc
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
