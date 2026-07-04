@@ -26,6 +26,8 @@
 - [libxposed-api](https://github.com/libxposed/api)
 - [libxposed-service](https://github.com/libxposed/service)
 - [LSPosed](https://github.com/LSPosed/LSPosed)
+- [Shizuku](https://github.com/thedjchi/Shizuku)
+- [KernelSu](https://kernelsu.org/zh_CN/)
 - ...
 
 ### 提交应用
@@ -37,7 +39,7 @@
 
 ### 目前支持
 
-点击 [这里](https://github.com/hujiayucc/Fuck-AD/blob/master/app/src/main/resources/META-INF/xposed/scope.list) 查看作用域
+点击 [这里](app/src/main/resources/META-INF/xposed/scope.list) 查看作用域
 
 ### 捐赠支持
 

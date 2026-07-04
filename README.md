@@ -25,6 +25,8 @@ As the name implies, this is an ad-blocking Xposed module
 - [libxposed](https://github.com/libxposed)
 - [libxposed-service](https://github.com/libxposed/service)
 - [LSPosed](https://github.com/LSPosed/LSPosed)
+- [Shizuku](https://github.com/thedjchi/Shizuku)
+- [KernelSu](https://kernelsu.org/)
 - ...
 
 ### Submit App
@@ -36,7 +38,7 @@ As the name implies, this is an ad-blocking Xposed module
 
 ### Supported App
 
-Click [here](https://github.com/hujiayucc/Fuck-AD/blob/master/app/src/main/resources/META-INF/xposed/scope.list) to view scope
+Click [here](app/src/main/resources/META-INF/xposed/scope.list) to view scope
 
 ### Donation Support
 
