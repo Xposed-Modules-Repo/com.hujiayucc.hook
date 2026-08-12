@@ -9,7 +9,7 @@ As the name implies, this is an ad-blocking Xposed module
 
 ---
 
-**English | [简体中文](https://github.com/hujiayucc/Fuck-AD/blob/master/README-zh_CN.md)**
+**English | [简体中文](https://github.com/hujiayucc/Fuck-AD/blob/master/README.zh_CN.md)**
 
 [![Stars](https://img.shields.io/github/stars/hujiayucc/Fuck-AD?label=stars)](https://github.com/hujiayucc/Fuck-AD)
 [![Release](https://img.shields.io/github/v/release/hujiayucc/Fuck-AD?include_prereleases)](https://github.com/Xposed-Modules-Repo/com.hujiayucc.hook/releases/latest)
@@ -27,14 +27,12 @@ As the name implies, this is an ad-blocking Xposed module
 - [LSPosed](https://github.com/LSPosed/LSPosed)
 - [Shizuku](https://github.com/thedjchi/Shizuku)
 - [KernelSu](https://kernelsu.org/)
-- ...
 
 ### Submit App
 
 ---
 
 - [Fk AD](https://fkad.hujiayucc.cn)
-- [QQ Doc](https://docs.qq.com/sheet/DQ3hndWZ0RWhCb0NU)
 
 ### Supported App
 
@@ -42,7 +40,7 @@ Click [here](app/src/main/resources/META-INF/xposed/scope.list) to view scope
 
 ### Contributor Guide
 
-- [Hooker Development Guide](HOOKER_GUIDE.md)
+- [Hooker Development Guide](CONTRIBUTING.md)
 
 ### Donation Support
 
